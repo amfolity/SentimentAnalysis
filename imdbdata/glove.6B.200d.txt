@@ -1,1 +1,2 @@
-
+Placeholder for glove.6B.200d.txt actual file. 
+Download from here https://nlp.stanford.edu/data/glove.6B.zip
